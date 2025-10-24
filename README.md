@@ -1,19 +1,10 @@
-<table>
-  <tr>
-    <td width="50%" valign="center">
+<img align="right" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif" width="350" alt="Coding gif" style="margin-left: 25px;">
 
 # 👋 Hello, World!  
 ## I'm **Ravi Loureiro Guimarães** 🚀  
 
 > 💻 Python Developer with experience in **Django**  
 > 🎯 Knowledge in **CSS, JavaScript, HTML** and **Python**
-
-  </td>
-    <td width="50%" align="center">
-      <img src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif" width="350" alt="Coding gif">
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -60,4 +51,9 @@ interfaces dinâmicas e soluções completas do back-end ao front-end.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=clemsonrpg&color=blueviolet" alt="profile views" />
   <img src="https://badges.pufler.dev/repos/clemsonrpg" alt="repos badge" />
-  <img src="https://badges.
+  <img src="https://badges.pufler.dev/years/clemsonrpg" alt="years badge" />
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/clemsonrpg/count.svg" alt="Visitor Count" />
+</p>
